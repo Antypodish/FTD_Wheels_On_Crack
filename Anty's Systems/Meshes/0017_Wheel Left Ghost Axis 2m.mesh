@@ -1,0 +1,23 @@
+{
+  "FilenameOrUrl": "Wheel_Slick.obj",
+  "Source": 0,
+  "DefaultMaterialForDisplayReference": {
+    "Reference": {
+      "Guid": "00000000-0000-0000-0000-000000000000",
+      "Name": "",
+      "RuntimeId": -1,
+      "IsValid": false
+    },
+    "IsValidReference": false
+  },
+  "XImportScaleFactor": 64.0,
+  "YImportScaleFactor": 1.0,
+  "ZImportScaleFactor": 1.0,
+  "ComponentId": {
+    "Guid": "72a09374-fd57-44e1-be38-9940a7b29874",
+    "Name": "Wheel Left Ghost Axis 2m",
+    "RuntimeId": 606,
+    "IsValid": true
+  },
+  "Description": "Wheel Left Ghost Axis 2m"
+}

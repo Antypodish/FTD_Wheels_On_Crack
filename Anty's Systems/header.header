@@ -1,0 +1,10 @@
+{
+  "Authors": "Antypodish",
+  "ComponentId": {
+    "Guid": "2ea28ec1-4c1f-4c94-86fe-cfc53274809c",
+    "Name": "Anty's Systems",
+    "RuntimeId": -1,
+    "IsValid": true
+  },
+  "Description": "Systems"
+}

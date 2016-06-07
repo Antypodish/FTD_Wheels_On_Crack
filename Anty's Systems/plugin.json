@@ -1,0 +1,7 @@
+{
+	name: "Drive Wheel Upgrade",
+	version: "0.1.0",
+	filename: "DriveWheel_Upg.dll",
+	depends: [],
+	conflicts: []
+}

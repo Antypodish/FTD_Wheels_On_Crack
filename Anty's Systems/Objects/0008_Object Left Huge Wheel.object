@@ -1,0 +1,27 @@
+{
+  "MeshReference": {
+    "Reference": {
+      "Guid": "84091f09-5502-4362-858d-1f3977c5d66a",
+      "Name": "Mesh Left Huge Wheel",
+      "RuntimeId": 597,
+      "IsValid": true
+    },
+    "IsValidReference": true
+  },
+  "MaterialReference": {
+    "Reference": {
+      "Guid": "d78bbcff-e1f1-4b62-8ee4-aac842e704ee",
+      "Name": "Material Standard Wheel",
+      "RuntimeId": 55,
+      "IsValid": true
+    },
+    "IsValidReference": true
+  },
+  "ComponentId": {
+    "Guid": "30ed1516-05b7-4579-8c80-ce1e1033b9cb",
+    "Name": "Object Left Huge Wheel",
+    "RuntimeId": 44,
+    "IsValid": true
+  },
+  "Description": "Object Left Huge Wheel"
+}

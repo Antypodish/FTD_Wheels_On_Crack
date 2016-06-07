@@ -1,0 +1,27 @@
+{
+  "MeshReference": {
+    "Reference": {
+      "Guid": "812e1834-0976-4b61-8c9e-7140d948e473",
+      "Name": "Mesh Right Huge Wheel",
+      "RuntimeId": 598,
+      "IsValid": true
+    },
+    "IsValidReference": true
+  },
+  "MaterialReference": {
+    "Reference": {
+      "Guid": "d78bbcff-e1f1-4b62-8ee4-aac842e704ee",
+      "Name": "Material Standard Wheel",
+      "RuntimeId": 55,
+      "IsValid": true
+    },
+    "IsValidReference": true
+  },
+  "ComponentId": {
+    "Guid": "ef1ed722-b23c-4d88-8993-636c71a1079a",
+    "Name": "Object Right Huge Wheel",
+    "RuntimeId": 45,
+    "IsValid": true
+  },
+  "Description": "Object Right Huge Wheel"
+}

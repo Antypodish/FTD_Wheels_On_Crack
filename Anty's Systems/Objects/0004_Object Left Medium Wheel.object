@@ -1,0 +1,27 @@
+{
+  "MeshReference": {
+    "Reference": {
+      "Guid": "6bd1fce9-f751-4776-a26c-2189423315ad",
+      "Name": "Mesh Left Medium Wheel",
+      "RuntimeId": 593,
+      "IsValid": true
+    },
+    "IsValidReference": true
+  },
+  "MaterialReference": {
+    "Reference": {
+      "Guid": "d78bbcff-e1f1-4b62-8ee4-aac842e704ee",
+      "Name": "Material Standard Wheel",
+      "RuntimeId": 55,
+      "IsValid": true
+    },
+    "IsValidReference": true
+  },
+  "ComponentId": {
+    "Guid": "c889ab33-d199-4d14-b6c3-747bcc06f110",
+    "Name": "Object Left Medium Wheel",
+    "RuntimeId": 40,
+    "IsValid": true
+  },
+  "Description": "Object Left Medium Wheel"
+}

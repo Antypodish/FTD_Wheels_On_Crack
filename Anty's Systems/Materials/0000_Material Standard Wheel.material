@@ -1,0 +1,72 @@
+{
+  "ViewDistanceLayer": 0,
+  "RemapUvsInChunkMesh": false,
+  "ColorTextureReference": {
+    "Reference": {
+      "Guid": "f032dc4b-bd37-4313-86dc-fe17a97d4fa7",
+      "Name": "Texture Wheel Color",
+      "RuntimeId": 131,
+      "IsValid": true
+    },
+    "IsValidReference": true
+  },
+  "BumpTextureReference": {
+    "Reference": {
+      "Guid": "949c9361-a325-4bbc-ba22-5027150be6fb",
+      "Name": "Texture Wheel BumpMap",
+      "RuntimeId": 132,
+      "IsValid": true
+    },
+    "IsValidReference": true
+  },
+  "SpecularTextureReference": {
+    "Reference": {
+      "Guid": "00000000-0000-0000-0000-000000000000",
+      "Name": "",
+      "RuntimeId": -1,
+      "IsValid": false
+    },
+    "IsValidReference": false
+  },
+  "PaintTextureReference": {
+    "Reference": {
+      "Guid": "00000000-0000-0000-0000-000000000000",
+      "Name": "",
+      "RuntimeId": -1,
+      "IsValid": false
+    },
+    "IsValidReference": false
+  },
+  "RampTextureReference": {
+    "Reference": {
+      "Guid": "00000000-0000-0000-0000-000000000000",
+      "Name": "",
+      "RuntimeId": -1,
+      "IsValid": false
+    },
+    "IsValidReference": false
+  },
+  "PreviewMeshReference": {
+    "Reference": {
+      "Guid": "9cd1b24b-abdc-4d9b-9735-d1661ba62869",
+      "Name": "Mesh Left Standard Wheel",
+      "RuntimeId": 591,
+      "IsValid": true
+    },
+    "IsValidReference": true
+  },
+  "SpecularColor": "0.39,0.39,0.39,0.75",
+  "HighlightColor": "0.61,0.61,0.61,0.99",
+  "ShadowColor": "0,0,0,0.99",
+  "OutlineColor": "0,0,0,0",
+  "Shininess": 0.01,
+  "OutlineWidth": 0.0,
+  "ShaderType": 0,
+  "ComponentId": {
+    "Guid": "d78bbcff-e1f1-4b62-8ee4-aac842e704ee",
+    "Name": "Material Standard Wheel",
+    "RuntimeId": 55,
+    "IsValid": true
+  },
+  "Description": "Material Standard Wheel"
+}

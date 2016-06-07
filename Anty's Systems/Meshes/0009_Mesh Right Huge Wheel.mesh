@@ -1,0 +1,23 @@
+{
+  "FilenameOrUrl": "Right_Wheel_Slick.obj",
+  "Source": 0,
+  "DefaultMaterialForDisplayReference": {
+    "Reference": {
+      "Guid": "d78bbcff-e1f1-4b62-8ee4-aac842e704ee",
+      "Name": "Material Standard Wheel",
+      "RuntimeId": 55,
+      "IsValid": true
+    },
+    "IsValidReference": true
+  },
+  "XImportScaleFactor": 72.0,
+  "YImportScaleFactor": 72.0,
+  "ZImportScaleFactor": 72.0,
+  "ComponentId": {
+    "Guid": "812e1834-0976-4b61-8c9e-7140d948e473",
+    "Name": "Mesh Right Huge Wheel",
+    "RuntimeId": 598,
+    "IsValid": true
+  },
+  "Description": "Mesh Right Huge Wheel"
+}

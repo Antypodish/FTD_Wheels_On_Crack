@@ -1,0 +1,354 @@
+{
+  "DisplayOnInventory": true,
+  "Sounds": {
+    "ViewTheseOptions": false,
+    "Sounds": [],
+    "SoundCount": 0
+  },
+  "SubObjects": {
+    "ViewTheseOptions": true,
+    "SubObjectCount": 1,
+    "SubObjects": [
+      {
+        "ObjectReference": {
+          "Reference": {
+            "Guid": "3790e867-f3b1-4e8d-9f24-89888a847496",
+            "Name": "Object Right Standard Wheel",
+            "RuntimeId": 39,
+            "IsValid": true
+          },
+          "IsValidReference": true
+        },
+        "LocalPosition": "0,0,0",
+        "LocalRotation": "0,0,0,1"
+      }
+    ]
+  },
+  "MeshReference": {
+    "Reference": {
+      "Guid": "00000000-0000-0000-0000-000000000000",
+      "Name": "",
+      "RuntimeId": -1,
+      "IsValid": false
+    },
+    "IsValidReference": false
+  },
+  "MaterialReference": {
+    "Reference": {
+      "Guid": "00000000-0000-0000-0000-000000000000",
+      "Name": "",
+      "RuntimeId": -1,
+      "IsValid": false
+    },
+    "IsValidReference": false
+  },
+  "ToolTipString": "",
+  "MirrorLaterialFlipReplacementReference": {
+    "Reference": {
+      "Guid": "00000000-0000-0000-0000-000000000000",
+      "Name": "",
+      "RuntimeId": -1,
+      "IsValid": false
+    },
+    "IsValidReference": false
+  },
+  "MirrorVerticalFlipReplacementReference": {
+    "Reference": {
+      "Guid": "00000000-0000-0000-0000-000000000000",
+      "Name": "",
+      "RuntimeId": -1,
+      "IsValid": false
+    },
+    "IsValidReference": false
+  },
+  "HelpPageIdentifierReference": {
+    "Reference": {
+      "Guid": "00000000-0000-0000-0000-000000000000",
+      "Name": "",
+      "RuntimeId": -1,
+      "IsValid": false
+    },
+    "IsValidReference": false
+  },
+  "SizeInfo": {
+    "ViewTheseOptions": false,
+    "SizePos": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "sqrMagnitude": 0
+    },
+    "SizeNeg": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "sqrMagnitude": 0
+    },
+    "VolumeFactor": 1.0,
+    "SizeDefinition": 0,
+    "ArrayPositionsUsed": 1,
+    "LocalCenter": "0,0,0",
+    "Volume": 1.0,
+    "Dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1,
+      "sqrMagnitude": 3
+    }
+  },
+  "Cost": {
+    "Natural": 60.0,
+    "Metal": 20.0,
+    "Oil": 20.0,
+    "Scrap": 20.0,
+    "Crystal": 0.0
+  },
+  "AttachDirections": {
+    "Up": false,
+    "Down": false,
+    "Right": true,
+    "Left": true,
+    "Forwards": false,
+    "Back": false
+  },
+  "AllowAttachingDirections": {
+    "Up": false,
+    "Down": false,
+    "Right": true,
+    "Left": true,
+    "Forwards": false,
+    "Back": false
+  },
+  "Weight": 0.01,
+  "Health": 100.0,
+  "ArmourClass": 4.0,
+  "HasVariants": false,
+  "LegacyGameObjectName": null,
+  "ExtraSettings": {
+    "CreateListOfTheseBlocks": true,
+    "ExplosionOnDeath": 0,
+    "ViewTheseOptions": true,
+    "UseALowLodRender": true,
+    "WaterTight": false,
+    "BlockPathfinding": true,
+    "ViewMeshWhenPlacing": true,
+    "LocalRotationToForward": false,
+    "InventoryLinkUp": false,
+    "InventoryLinkDown": false,
+    "InventoryLinkLeft": false,
+    "InventoryLinkRight": false,
+    "PlaceableOnFortress": true,
+    "PlaceableOnStructure": false,
+    "PlaceableOnVehicle": true,
+    "PlaceableOnSubConstructable": 1,
+    "AutomaticallyGenerateCollider": false,
+    "StructuralComponent": false,
+    "EmpSusceptibility": 0.0,
+    "EmpResistivity": 2.0,
+    "EmpDamageFactor": 1.0,
+    "FractionHeatDamagePerMeterPenetration": 0.05
+  },
+  "DragSettings": {
+    "DragClearancePositionOne": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "sqrMagnitude": 0
+    },
+    "DragClearancePositionTwo": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "sqrMagnitude": 0
+    },
+    "DragFactorNeg": "1,1,1",
+    "DragFactorPos": "1,1,1",
+    "DragStopper": true,
+    "ViewTheseOptions": false,
+    "Geometry": 0
+  },
+  "InventoryTabOrVariantId": {
+    "Reference": {
+      "Guid": "00000000-0000-0000-0000-000000000000",
+      "Name": "",
+      "RuntimeId": -1,
+      "IsValid": false
+    },
+    "IsValidReference": false
+  },
+  "InventoryXPosition": 0,
+  "InventoryYPosition": 0,
+  "Code": {
+    "GroupConnectionInfo": {
+      "BlockGroupReference": {
+        "Reference": {
+          "Guid": "00000000-0000-0000-0000-000000000000",
+          "Name": "",
+          "RuntimeId": -1,
+          "IsValid": false
+        },
+        "IsValidReference": false
+      },
+      "ViewTheseOptions": false,
+      "MatchCoreBlockOrientation": false,
+      "ReceiveDirections": {
+        "Up": false,
+        "Down": false,
+        "Right": false,
+        "Left": false,
+        "Forwards": false,
+        "Back": false
+      },
+      "SendDirections": {
+        "Up": false,
+        "Down": false,
+        "Right": false,
+        "Left": false,
+        "Forwards": false,
+        "Back": false
+      },
+      "SpreadRightUpForwardElementJumps": {
+        "x": 1,
+        "y": 1,
+        "z": 1,
+        "sqrMagnitude": 3
+      },
+      "SpreadLeftDownBackElementJumps": {
+        "x": 1,
+        "y": 1,
+        "z": 1,
+        "sqrMagnitude": 3
+      },
+      "SpreadToTypePermissions": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "ViewTheseOptions": true,
+    "Variables": {
+      "Variables": [
+        {
+          "Id": 0,
+          "Value": 20.0,
+          "Name": "",
+          "ValueBool": true
+        },
+        {
+          "Id": 1,
+          "Value": 18.0,
+          "Name": "",
+          "ValueBool": true
+        },
+        {
+          "Id": 2,
+          "Value": 20.0,
+          "Name": "MaxThrustMultiplerBy100",
+          "ValueBool": true
+        },
+        {
+          "Id": 3,
+          "Value": 2.0,
+          "Name": "SidewaysFrictionStiffenessBy100",
+          "ValueBool": true
+        },
+        {
+          "Id": 4,
+          "Value": 2.0,
+          "Name": "ForwardFrictionStiffenessBy100",
+          "ValueBool": true
+        },
+        {
+          "Id": 5,
+          "Value": 100.0,
+          "Name": "MaxMotorTorque",
+          "ValueBool": true
+        },
+        {
+          "Id": 6,
+          "Value": 60000.0,
+          "Name": "AntiSwayForceMultiplerBy10000",
+          "ValueBool": true
+        },
+        {
+          "Id": 7,
+          "Value": 5.0,
+          "Name": "TurningFactorBy10",
+          "ValueBool": true
+        },
+        {
+          "Id": 8,
+          "Value": 100.0,
+          "Name": "RollTorqueFactorBy100",
+          "ValueBool": true
+        },
+        {
+          "Id": 9,
+          "Value": 100.0,
+          "Name": "steerAngleStrengthBy100",
+          "ValueBool": true
+        },
+        {
+          "Id": 10,
+          "Value": 50000.0,
+          "Name": "AngularWheelSpeedBy100",
+          "ValueBool": true
+        },
+        {
+          "Id": 11,
+          "Value": 496.0,
+          "Name": "ObjectIDThatIsMirrored",
+          "ValueBool": true
+        }
+      ],
+      "VariableCount": 12
+    },
+    "ClassName": "DriveWheel_Upg"
+  },
+  "ItemType": 0,
+  "Complexity": 0,
+  "ExternalLink": {
+    "Name": "",
+    "Url": ""
+  },
+  "SparesCostFactor": 1.0,
+  "LowLevelOfDetailColor": "1,1,1,1",
+  "Unlock": null,
+  "SparesCost": 240.0,
+  "ComponentId": {
+    "Guid": "56b0cec0-f821-4f4a-ba9e-6f2dd25fadf0",
+    "Name": "Standard Wheel (Mirror)",
+    "RuntimeId": 520,
+    "IsValid": true
+  },
+  "Description": "Standard Wheel (Mirror)"
+}

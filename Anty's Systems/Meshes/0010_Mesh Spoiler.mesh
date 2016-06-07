@@ -1,0 +1,23 @@
+{
+  "FilenameOrUrl": "CarSpoiler.obj",
+  "Source": 0,
+  "DefaultMaterialForDisplayReference": {
+    "Reference": {
+      "Guid": "00000000-0000-0000-0000-000000000000",
+      "Name": "",
+      "RuntimeId": -1,
+      "IsValid": false
+    },
+    "IsValidReference": false
+  },
+  "XImportScaleFactor": 10.0,
+  "YImportScaleFactor": 10.0,
+  "ZImportScaleFactor": 10.0,
+  "ComponentId": {
+    "Guid": "371fed42-040c-4c47-8be7-e4af2af9ef21",
+    "Name": "Mesh Spoiler",
+    "RuntimeId": 599,
+    "IsValid": true
+  },
+  "Description": "Mesh Spoiler"
+}

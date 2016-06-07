@@ -1,0 +1,27 @@
+{
+  "MeshReference": {
+    "Reference": {
+      "Guid": "2dc5af42-67be-4aea-9c80-5517a02b13d9",
+      "Name": "Mesh Right Medium Wheel",
+      "RuntimeId": 594,
+      "IsValid": true
+    },
+    "IsValidReference": true
+  },
+  "MaterialReference": {
+    "Reference": {
+      "Guid": "d78bbcff-e1f1-4b62-8ee4-aac842e704ee",
+      "Name": "Material Standard Wheel",
+      "RuntimeId": 55,
+      "IsValid": true
+    },
+    "IsValidReference": true
+  },
+  "ComponentId": {
+    "Guid": "b3d6ae4f-cebc-467c-934d-0724097217e7",
+    "Name": "Object Right Medium Wheel",
+    "RuntimeId": 41,
+    "IsValid": true
+  },
+  "Description": "Object Right Medium Wheel"
+}

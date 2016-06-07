@@ -1,0 +1,27 @@
+{
+  "MeshReference": {
+    "Reference": {
+      "Guid": "3d593c8a-7d69-44bb-8e98-2c1f9a5b2a42",
+      "Name": "Mesh Right Standard Wheel",
+      "RuntimeId": 592,
+      "IsValid": true
+    },
+    "IsValidReference": true
+  },
+  "MaterialReference": {
+    "Reference": {
+      "Guid": "d78bbcff-e1f1-4b62-8ee4-aac842e704ee",
+      "Name": "Material Standard Wheel",
+      "RuntimeId": 55,
+      "IsValid": true
+    },
+    "IsValidReference": true
+  },
+  "ComponentId": {
+    "Guid": "3790e867-f3b1-4e8d-9f24-89888a847496",
+    "Name": "Object Right Standard Wheel",
+    "RuntimeId": 39,
+    "IsValid": true
+  },
+  "Description": "Object Right Standard Wheel"
+}

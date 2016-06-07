@@ -1,0 +1,348 @@
+{
+  "DisplayOnInventory": true,
+  "Sounds": {
+    "ViewTheseOptions": false,
+    "Sounds": [],
+    "SoundCount": 0
+  },
+  "SubObjects": {
+    "ViewTheseOptions": true,
+    "SubObjectCount": 1,
+    "SubObjects": [
+      {
+        "ObjectReference": {
+          "Reference": {
+            "Guid": "22209414-a785-4551-adc4-1be4ad3a9ca4",
+            "Name": "Object Left Large Wheel",
+            "RuntimeId": 42,
+            "IsValid": true
+          },
+          "IsValidReference": true
+        },
+        "LocalPosition": "-0.75,0,0",
+        "LocalRotation": "0,0,0,1"
+      }
+    ]
+  },
+  "MeshReference": {
+    "Reference": {
+      "Guid": "00000000-0000-0000-0000-000000000000",
+      "Name": "",
+      "RuntimeId": -1,
+      "IsValid": false
+    },
+    "IsValidReference": false
+  },
+  "MaterialReference": {
+    "Reference": {
+      "Guid": "d78bbcff-e1f1-4b62-8ee4-aac842e704ee",
+      "Name": "Material Standard Wheel",
+      "RuntimeId": 55,
+      "IsValid": true
+    },
+    "IsValidReference": true
+  },
+  "ToolTipString": "",
+  "MirrorLaterialFlipReplacementReference": {
+    "Reference": {
+      "Guid": "1a7833e9-ba92-40dd-a752-c4dc125e5829",
+      "Name": "Right Large Wheel",
+      "RuntimeId": 517,
+      "IsValid": true
+    },
+    "IsValidReference": true
+  },
+  "MirrorVerticalFlipReplacementReference": {
+    "Reference": {
+      "Guid": "00000000-0000-0000-0000-000000000000",
+      "Name": "",
+      "RuntimeId": -1,
+      "IsValid": false
+    },
+    "IsValidReference": false
+  },
+  "HelpPageIdentifierReference": {
+    "Reference": {
+      "Guid": "00000000-0000-0000-0000-000000000000",
+      "Name": "",
+      "RuntimeId": -1,
+      "IsValid": false
+    },
+    "IsValidReference": false
+  },
+  "SizeInfo": {
+    "ViewTheseOptions": true,
+    "SizePos": {
+      "x": 0,
+      "y": 1,
+      "z": 2,
+      "sqrMagnitude": 5
+    },
+    "SizeNeg": {
+      "x": 1,
+      "y": 1,
+      "z": 2,
+      "sqrMagnitude": 6
+    },
+    "VolumeFactor": 1.0,
+    "SizeDefinition": 0,
+    "ArrayPositionsUsed": 30,
+    "LocalCenter": "-0.5,0,0",
+    "Volume": 30.0,
+    "Dimensions": {
+      "x": 2,
+      "y": 3,
+      "z": 5,
+      "sqrMagnitude": 38
+    }
+  },
+  "Cost": {
+    "Natural": 60.0,
+    "Metal": 20.0,
+    "Oil": 20.0,
+    "Scrap": 20.0,
+    "Crystal": 0.0
+  },
+  "AttachDirections": {
+    "Up": false,
+    "Down": false,
+    "Right": true,
+    "Left": true,
+    "Forwards": false,
+    "Back": false
+  },
+  "AllowAttachingDirections": {
+    "Up": false,
+    "Down": false,
+    "Right": true,
+    "Left": true,
+    "Forwards": false,
+    "Back": false
+  },
+  "Weight": 6.4,
+  "Health": 3200.0,
+  "ArmourClass": 6.0,
+  "HasVariants": true,
+  "LegacyGameObjectName": null,
+  "ExtraSettings": {
+    "CreateListOfTheseBlocks": true,
+    "ExplosionOnDeath": 0,
+    "ViewTheseOptions": true,
+    "UseALowLodRender": true,
+    "WaterTight": false,
+    "BlockPathfinding": true,
+    "ViewMeshWhenPlacing": true,
+    "LocalRotationToForward": false,
+    "InventoryLinkUp": false,
+    "InventoryLinkDown": false,
+    "InventoryLinkLeft": false,
+    "InventoryLinkRight": false,
+    "PlaceableOnFortress": false,
+    "PlaceableOnStructure": false,
+    "PlaceableOnVehicle": true,
+    "PlaceableOnSubConstructable": 1,
+    "AutomaticallyGenerateCollider": false,
+    "StructuralComponent": false,
+    "EmpSusceptibility": 0.0,
+    "EmpResistivity": 2.0,
+    "EmpDamageFactor": 1.0,
+    "FractionHeatDamagePerMeterPenetration": 0.05
+  },
+  "DragSettings": {
+    "DragClearancePositionOne": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "sqrMagnitude": 0
+    },
+    "DragClearancePositionTwo": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "sqrMagnitude": 0
+    },
+    "DragFactorNeg": "1,1,1",
+    "DragFactorPos": "1,1,1",
+    "DragStopper": true,
+    "ViewTheseOptions": false,
+    "Geometry": 0
+  },
+  "InventoryTabOrVariantId": {
+    "Reference": {
+      "Guid": "f3f7620a-f281-4a3a-a75e-0106ef9c4eb8",
+      "Name": "Wheel (power)",
+      "RuntimeId": 38,
+      "IsValid": true
+    },
+    "IsValidReference": true
+  },
+  "InventoryXPosition": 3,
+  "InventoryYPosition": 0,
+  "Code": {
+    "GroupConnectionInfo": {
+      "BlockGroupReference": {
+        "Reference": {
+          "Guid": "00000000-0000-0000-0000-000000000000",
+          "Name": "",
+          "RuntimeId": -1,
+          "IsValid": false
+        },
+        "IsValidReference": false
+      },
+      "ViewTheseOptions": false,
+      "MatchCoreBlockOrientation": false,
+      "ReceiveDirections": {
+        "Up": false,
+        "Down": false,
+        "Right": false,
+        "Left": false,
+        "Forwards": false,
+        "Back": false
+      },
+      "SendDirections": {
+        "Up": false,
+        "Down": false,
+        "Right": false,
+        "Left": false,
+        "Forwards": false,
+        "Back": false
+      },
+      "SpreadRightUpForwardElementJumps": {
+        "x": 1,
+        "y": 1,
+        "z": 1,
+        "sqrMagnitude": 3
+      },
+      "SpreadLeftDownBackElementJumps": {
+        "x": 1,
+        "y": 1,
+        "z": 1,
+        "sqrMagnitude": 3
+      },
+      "SpreadToTypePermissions": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "ViewTheseOptions": true,
+    "Variables": {
+      "Variables": [
+        {
+          "Id": 0,
+          "Value": 30.0,
+          "Name": "",
+          "ValueBool": true
+        },
+        {
+          "Id": 1,
+          "Value": 27.0,
+          "Name": "",
+          "ValueBool": true
+        },
+        {
+          "Id": 2,
+          "Value": 20.0,
+          "Name": "MaxThrustMultiplerBy100",
+          "ValueBool": true
+        },
+        {
+          "Id": 3,
+          "Value": 2.0,
+          "Name": "SidewaysFrictionStiffenessBy100",
+          "ValueBool": true
+        },
+        {
+          "Id": 4,
+          "Value": 2.0,
+          "Name": "ForwardFrictionStiffenessBy100",
+          "ValueBool": true
+        },
+        {
+          "Id": 5,
+          "Value": 100.0,
+          "Name": "MaxMotorTorque",
+          "ValueBool": true
+        },
+        {
+          "Id": 6,
+          "Value": 60000.0,
+          "Name": "AntiSwayForceMultiplerBy10000",
+          "ValueBool": true
+        },
+        {
+          "Id": 7,
+          "Value": 5.0,
+          "Name": "TurningFactorBy10",
+          "ValueBool": true
+        },
+        {
+          "Id": 8,
+          "Value": 100.0,
+          "Name": "RollTorqueFactorBy100",
+          "ValueBool": true
+        },
+        {
+          "Id": 9,
+          "Value": 100.0,
+          "Name": "steerAngleStrengthBy100",
+          "ValueBool": true
+        },
+        {
+          "Id": 10,
+          "Value": 0.0,
+          "Name": "",
+          "ValueBool": false
+        }
+      ],
+      "VariableCount": 11
+    },
+    "ClassName": "LargeWheel_Upg"
+  },
+  "ItemType": 0,
+  "Complexity": 1,
+  "ExternalLink": {
+    "Name": "",
+    "Url": ""
+  },
+  "SparesCostFactor": 1.0,
+  "LowLevelOfDetailColor": "1,1,1,1",
+  "Unlock": null,
+  "SparesCost": 240.0,
+  "ComponentId": {
+    "Guid": "aa1cd556-0acd-44f2-a44a-e1f469d5bcc6",
+    "Name": "Left Large Wheel",
+    "RuntimeId": 516,
+    "IsValid": true
+  },
+  "Description": "Wheel allows to be mobile on the ground."
+}

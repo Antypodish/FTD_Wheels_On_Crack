@@ -1,0 +1,23 @@
+{
+  "FilenameOrUrl": "Wheel_Slick_x3.obj",
+  "Source": 0,
+  "DefaultMaterialForDisplayReference": {
+    "Reference": {
+      "Guid": "d78bbcff-e1f1-4b62-8ee4-aac842e704ee",
+      "Name": "Material Standard Wheel",
+      "RuntimeId": 55,
+      "IsValid": true
+    },
+    "IsValidReference": true
+  },
+  "XImportScaleFactor": 18.0,
+  "YImportScaleFactor": 18.0,
+  "ZImportScaleFactor": 18.0,
+  "ComponentId": {
+    "Guid": "283d0657-17cc-4f7b-b7ed-f62d961cb80d",
+    "Name": "Mesh Left Small Wheel 3m",
+    "RuntimeId": 601,
+    "IsValid": true
+  },
+  "Description": "Mesh Left Small Wheel 3m"
+}

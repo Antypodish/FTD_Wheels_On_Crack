@@ -1,0 +1,11 @@
+{
+  "FilenameOrUrl": "Wheel01 Color.jpg",
+  "Source": 0,
+  "ComponentId": {
+    "Guid": "f032dc4b-bd37-4313-86dc-fe17a97d4fa7",
+    "Name": "Texture Wheel Color",
+    "RuntimeId": 131,
+    "IsValid": true
+  },
+  "Description": "Texture Wheel Color"
+}

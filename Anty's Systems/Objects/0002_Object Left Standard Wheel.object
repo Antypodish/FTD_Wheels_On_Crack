@@ -1,0 +1,27 @@
+{
+  "MeshReference": {
+    "Reference": {
+      "Guid": "9cd1b24b-abdc-4d9b-9735-d1661ba62869",
+      "Name": "Mesh Left Standard Wheel",
+      "RuntimeId": 591,
+      "IsValid": true
+    },
+    "IsValidReference": true
+  },
+  "MaterialReference": {
+    "Reference": {
+      "Guid": "d78bbcff-e1f1-4b62-8ee4-aac842e704ee",
+      "Name": "Material Standard Wheel",
+      "RuntimeId": 55,
+      "IsValid": true
+    },
+    "IsValidReference": true
+  },
+  "ComponentId": {
+    "Guid": "4b70d797-25b9-4371-a189-62d6d2917235",
+    "Name": "Object Left Standard Wheel",
+    "RuntimeId": 38,
+    "IsValid": true
+  },
+  "Description": "Object Left Standard Wheel"
+}

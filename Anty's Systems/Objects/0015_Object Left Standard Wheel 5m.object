@@ -1,0 +1,27 @@
+{
+  "MeshReference": {
+    "Reference": {
+      "Guid": "97045637-04a9-481e-8950-0a556bde7d92",
+      "Name": "Mesh Left Standard Wheel 7m",
+      "RuntimeId": 605,
+      "IsValid": true
+    },
+    "IsValidReference": true
+  },
+  "MaterialReference": {
+    "Reference": {
+      "Guid": "d78bbcff-e1f1-4b62-8ee4-aac842e704ee",
+      "Name": "Material Standard Wheel",
+      "RuntimeId": 55,
+      "IsValid": true
+    },
+    "IsValidReference": true
+  },
+  "ComponentId": {
+    "Guid": "a3243548-5a5b-4372-9562-f218ad7dde36",
+    "Name": "Object Left Standard Wheel 5m",
+    "RuntimeId": 51,
+    "IsValid": true
+  },
+  "Description": "Object Left Standard Wheel 5m"
+}

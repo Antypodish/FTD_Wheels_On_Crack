@@ -1,0 +1,23 @@
+{
+  "FilenameOrUrl": "Wheel_Slick_x3.obj",
+  "Source": 0,
+  "DefaultMaterialForDisplayReference": {
+    "Reference": {
+      "Guid": "d78bbcff-e1f1-4b62-8ee4-aac842e704ee",
+      "Name": "Material Standard Wheel",
+      "RuntimeId": 55,
+      "IsValid": true
+    },
+    "IsValidReference": true
+  },
+  "XImportScaleFactor": 36.0,
+  "YImportScaleFactor": 36.0,
+  "ZImportScaleFactor": 36.0,
+  "ComponentId": {
+    "Guid": "15264250-5b3c-4b03-a384-823a3a946753",
+    "Name": "Mesh Left Standard Wheel 5m",
+    "RuntimeId": 604,
+    "IsValid": true
+  },
+  "Description": "Mesh Left Standard Wheel 5m"
+}

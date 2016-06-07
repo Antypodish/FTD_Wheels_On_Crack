@@ -1,0 +1,23 @@
+{
+  "FilenameOrUrl": "Left_Wheel_Slick.obj",
+  "Source": 0,
+  "DefaultMaterialForDisplayReference": {
+    "Reference": {
+      "Guid": "d78bbcff-e1f1-4b62-8ee4-aac842e704ee",
+      "Name": "Material Standard Wheel",
+      "RuntimeId": 55,
+      "IsValid": true
+    },
+    "IsValidReference": true
+  },
+  "XImportScaleFactor": 72.0,
+  "YImportScaleFactor": 72.0,
+  "ZImportScaleFactor": 72.0,
+  "ComponentId": {
+    "Guid": "84091f09-5502-4362-858d-1f3977c5d66a",
+    "Name": "Mesh Left Huge Wheel",
+    "RuntimeId": 597,
+    "IsValid": true
+  },
+  "Description": "Mesh Left Huge Wheel"
+}

@@ -1,0 +1,11 @@
+{
+  "FilenameOrUrl": "Wheel01 BumpMap.jpg",
+  "Source": 0,
+  "ComponentId": {
+    "Guid": "949c9361-a325-4bbc-ba22-5027150be6fb",
+    "Name": "Texture Wheel BumpMap",
+    "RuntimeId": 132,
+    "IsValid": true
+  },
+  "Description": "Texture Wheel BumpMap"
+}

@@ -1,0 +1,11 @@
+{
+  "FilenameOrUrl": "Wheel01 Specular.jpg",
+  "Source": 0,
+  "ComponentId": {
+    "Guid": "d7dc82b8-e2dc-4f25-89e8-fcdd26b6aefb",
+    "Name": "Texture Wheel Specular",
+    "RuntimeId": 133,
+    "IsValid": true
+  },
+  "Description": "Texture Wheel Specular"
+}

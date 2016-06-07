@@ -1,0 +1,23 @@
+{
+  "FilenameOrUrl": "Right_Wheel_Slick.obj",
+  "Source": 0,
+  "DefaultMaterialForDisplayReference": {
+    "Reference": {
+      "Guid": "d78bbcff-e1f1-4b62-8ee4-aac842e704ee",
+      "Name": "Material Standard Wheel",
+      "RuntimeId": 55,
+      "IsValid": true
+    },
+    "IsValidReference": true
+  },
+  "XImportScaleFactor": 18.0,
+  "YImportScaleFactor": 18.0,
+  "ZImportScaleFactor": 18.0,
+  "ComponentId": {
+    "Guid": "82344fef-2fed-4631-8bcb-306c990570e0",
+    "Name": "Mesh Right Small Wheel",
+    "RuntimeId": 590,
+    "IsValid": true
+  },
+  "Description": "Mesh Right Small Wheel"
+}

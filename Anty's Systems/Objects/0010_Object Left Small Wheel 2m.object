@@ -1,0 +1,27 @@
+{
+  "MeshReference": {
+    "Reference": {
+      "Guid": "60e2ade0-44d4-426e-955e-5a56200bdf0b",
+      "Name": "Mesh Left Small Wheel 2m",
+      "RuntimeId": 600,
+      "IsValid": true
+    },
+    "IsValidReference": true
+  },
+  "MaterialReference": {
+    "Reference": {
+      "Guid": "d78bbcff-e1f1-4b62-8ee4-aac842e704ee",
+      "Name": "Material Standard Wheel",
+      "RuntimeId": 55,
+      "IsValid": true
+    },
+    "IsValidReference": true
+  },
+  "ComponentId": {
+    "Guid": "5625386b-5bec-4585-bfdb-7e3f4977d791",
+    "Name": "Object Left Small Wheel 2m",
+    "RuntimeId": 46,
+    "IsValid": true
+  },
+  "Description": "Object Left Small Wheel 2m"
+}
